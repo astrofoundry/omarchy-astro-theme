@@ -1,0 +1,33 @@
+mode = "dark"
+
+# Palette derived from the flag of Bosnia and Herzegovina:
+# blue #001489 (Pantone Reflex Blue C), yellow #ffcd00 (Pantone 116 C), white.
+accent = "#ffcd00"
+selection = "#1a2357"
+muted = "#3c466f"
+
+background = "#0a1033"
+dark_background = "#070b26"
+darker_background = "#04071c"
+lighter_background = "#131a47"
+
+foreground = "#b6bfdf"
+dark_foreground = "#5c689c"
+light_foreground = "#cbd3ec"
+bright_foreground = "#e6eaf8"
+
+red = "#ef6478"
+yellow = "#ffcd00"
+orange = "#f0965a"
+green = "#86cb72"
+cyan = "#46b5c8"
+blue = "#4f7cf0"
+magenta = "#a88bf0"
+brown = "#7a5a45"
+
+bright_red = "#ff7a8c"
+bright_yellow = "#ffdb4d"
+bright_green = "#9ee486"
+bright_cyan = "#5fd3e8"
+bright_blue = "#7396ff"
+bright_magenta = "#c1a6ff"
